@@ -1,0 +1,7 @@
+# Go-go-gadget-integer-method...
+
+3.times do 
+
+    puts 'Hip-Hip-Hooray!'
+    
+end
