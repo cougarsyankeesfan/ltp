@@ -85,20 +85,20 @@ end
 num_string
 end
 
-puts eng_num( 0) 
-puts eng_num( 9) 
-puts eng_num( 10)
-puts eng_num( 11)
-puts eng_num( 17)
-puts eng_num( 32)
-puts eng_num( 88)
-puts eng_num( 99)
+puts eng_num(0)
+puts eng_num(9)
+puts eng_num(10)
+puts eng_num(11)
+puts eng_num(17)
+puts eng_num(32)
+puts eng_num(88)
+puts eng_num(99)
 puts eng_num(100)
 puts eng_num(101)
 puts eng_num(234)
 puts eng_num(3211) 
 puts eng_num(999999)
-puts eng_num(1000000000000) 
-puts english_number(109238745102938560129834709285360238475982374561034) 
+puts eng_num(1000000000000)
+puts eng_num(109238745102938560129834709285360238475982374561034)
 puts
 
