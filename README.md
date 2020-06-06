@@ -1,5 +1,5 @@
 # ltp
-LTP contains the program files I created while studying “Learn to Program” by Chris Pine. 
+LTP contains the program files I created while studying Ruby through “Learn to Program” by Chris Pine. 
 
 For many of the exercises of the book, I’ve changed the code slightly so I could better understand what is going on. 
 
